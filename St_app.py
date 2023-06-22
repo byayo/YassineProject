@@ -17,9 +17,11 @@ with st.container():
     
     
 #insert image
-Yassine_image= Image.open("C:/Users/My PC/Desktop/Python file Yas/X Steamlit/BA.jpg") 
-Nt=Image.open("C:/Users/My PC/Desktop/Python file Yas/X Steamlit/NT-logo.png")
-st.image(Nt)
-st.image(Yassine_image)
+#Yassine_image= Image.open("C:/Users/My PC/Desktop/Python file Yas/X Steamlit/BA.jpg") 
+image2="https://i.pcmag.com/imagery/articles/02Xkt5sp3fVl5rGUtk3DXMi-7.fit_lim.size_1600x900.v1569485349.jpg"
+#Nt=Image.open("C:/Users/My PC/Desktop/Python file Yas/X Steamlit/NT-logo.png")
+NT2="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/ixhpra0whi6jmwut52vf"
+st.image(NT2)
+st.image(image2)
 
 
