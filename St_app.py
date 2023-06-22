@@ -13,7 +13,7 @@ with st.container():
     st.write(
         "I am passionate BA about finding ways to use Python and VBA to be more efficient and effective in business settings."
     )
-    st.write("[Yassine Portfolio >](https://pythonandvba.com)")
+    st.write("[Yassine Portfolio >](https://yassine.com)")
     
     
 #insert image
