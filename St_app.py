@@ -17,7 +17,7 @@ with st.container():
     
     
 #insert image
-Yassine_image= Image.open("C:/Users/My PC/Desktop/Python file Yas/X Steamlit/BA2.png") 
+Yassine_image= Image.open("C:/Users/My PC/Desktop/Python file Yas/X Steamlit/BA.png") 
 Nt=Image.open("C:/Users/My PC/Desktop/Python file Yas/X Steamlit/NT-logo.png")
 st.image(Nt)
 st.image(Yassine_image)
